@@ -5,9 +5,6 @@
 	Name="DistanceFieldApp"
 	ProjectGUID="{C8CA865D-6AA6-4D17-B2FD-D002DA4B5871}"
 	RootNamespace="REYES"
-	SccProjectName="&quot;$/Engine/Source/Apps/REYES&quot;, TRFAAAAA"
-	SccLocalPath="."
-	SccProvider="MSSCCI:Microsoft Visual SourceSafe"
 	Keyword="Win32Proj"
 	>
 	<Platforms>

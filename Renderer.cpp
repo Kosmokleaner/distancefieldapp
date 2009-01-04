@@ -11,9 +11,9 @@
 
 
 
-CRenderer g_Renderer(640,480);
+//CRenderer g_Renderer(640,480);
 //CRenderer g_Renderer(640/4,480/4);
-//CRenderer g_Renderer(640/2,480/2);
+CRenderer g_Renderer(640/2,480/2);
 //CRenderer g_Renderer(128,128);
 
 
